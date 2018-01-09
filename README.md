@@ -5,6 +5,8 @@ My Edits:
 - Save time point.
 - Allow for playing preview.
 
+Actually, just open up the file with a new segment that encompasses the whole thing and have them drag. then log the segment points. can you preview a segment?
+
 Add audio source as an s3 file?
 
 
