@@ -7,6 +7,12 @@ My Edits:
 
 Actually, just open up the file with a new segment that encompasses the whole thing and have them drag. then log the segment points. can you preview a segment?
 
+oooo yeah you can.
+- so.... they could get the time markers from the video.
+- Then those time markers would be used to create the segments automatically.
+- then you cut the file based on those segments.
+- could be murky with overlap. maybe if there is an overlap, auto set it to the end of the last one.
+
 Add audio source as an s3 file?
 
 
