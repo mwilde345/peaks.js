@@ -1,3 +1,13 @@
+My Edits: 
+Click for start point (highlight in red everything before)
+Save time point.
+Double click for end point or single click again and highlight all after.
+Save time point.
+Allow for playing preview.
+
+Add audio source as an s3 file?
+
+
 # Peaks.js [![Build Status](https://travis-ci.org/bbc/peaks.js.svg?branch=master)](https://travis-ci.org/bbc/peaks.js)
 
 > A browser based audio waveform visualisation frontend component from BBC R&D.
