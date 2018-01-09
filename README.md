@@ -1,9 +1,9 @@
 My Edits: 
--Click for start point (highlight in red everything before)
--Save time point.
--Double click for end point or single click again and highlight all after.
--Save time point.
--Allow for playing preview.
+- Click for start point (highlight in red everything before)
+- Save time point.
+- Double click for end point or single click again and highlight all after.
+- Save time point.
+- Allow for playing preview.
 
 Add audio source as an s3 file?
 
