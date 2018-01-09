@@ -12,6 +12,8 @@ oooo yeah you can.
 - Then those time markers would be used to create the segments automatically.
 - then you cut the file based on those segments.
 - could be murky with overlap. maybe if there is an overlap, auto set it to the end of the last one.
+- actually overlap is fine. open the page with all segments made and all the segments logged.
+- then maybe next to each logged segment you could add the info for dynamo like tags and stuff....whoa.
 
 Add audio source as an s3 file?
 
